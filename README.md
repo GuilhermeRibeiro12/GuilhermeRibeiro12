@@ -38,7 +38,6 @@ Atualmente estou iniciando minha carreira como **Estagiário Front-end** na **De
 - Git
 - GitHub
 - VS Code
-- Figma
 
 ---
 
@@ -63,9 +62,8 @@ Atualmente estou iniciando minha carreira como **Estagiário Front-end** na **De
 
 ## 🌎 Vamos nos conectar!
 
-- 💼 LinkedIn: https://linkedin.com/in/SEU-LINK
-- 📧 Email: seuemail@email.com
-
+- 💼 LinkedIn: https://www.linkedin.com/in/guilhermeribeiro20/
+- 📧 Email: guilhermeriberio200260@gmail.com
 ---
 
 > "A evolução acontece um commit de cada vez." 🚀
