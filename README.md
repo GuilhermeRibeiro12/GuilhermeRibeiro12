@@ -62,7 +62,7 @@ Atualmente estou iniciando minha carreira como **Estagiário Front-end** na **De
 
 ## 🌎 Vamos nos conectar!
 
-- 💼 LinkedIn: https://www.linkedin.com/in/guilhermeribeiro20/
+- 💼 LinkedIn: [https://www.linkedin.com/in/guilhermeribeiro20/](https://www.linkedin.com/in/guilhermeribeiro20/?skipRedirect=true)
 - 📧 Email: guilhermeriberio200260@gmail.com
 ---
 
