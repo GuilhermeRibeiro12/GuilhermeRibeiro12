@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Eu sou o Guilherme Ribeiro</h1>
 
-<!--
-**GuilhermeRibeiro12/GuilhermeRibeiro12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Front-end Developer em formação <br>
+  🎓 Análise e Desenvolvimento de Sistemas • UNINOVE <br>
+  🚀 Sempre aprendendo novas tecnologias
+</p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode,figma" />
+</p>
 
-Here are some ideas to get you started:
+💻 Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE e apaixonado por tecnologia, desenvolvimento web e resolução de problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou iniciando minha carreira como **Estagiário Front-end** na **Delta Global**, buscando evoluir constantemente como desenvolvedor e criar interfaces modernas, responsivas e de alta qualidade.
+
+---
+
+## 🚀 Sobre mim
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💼 Estagiário Front-end
+- 🌱 Atualmente estudando React, TypeScript e boas práticas de desenvolvimento
+- 📚 Sempre buscando aprender novas tecnologias
+- 🎯 Objetivo: me tornar um Desenvolvedor Full Stack
+
+---
+
+## 🛠️ Tecnologias
+
+### Front-end
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+
+### Ferramentas
+- Git
+- GitHub
+- VS Code
+- Figma
+
+---
+
+## 📈 Atualmente estudando
+
+- React
+- TypeScript
+- APIs REST
+- Responsividade
+- Clean Code
+- Boas práticas de Front-end
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 🌎 Vamos nos conectar!
+
+- 💼 LinkedIn: https://linkedin.com/in/SEU-LINK
+- 📧 Email: seuemail@email.com
+
+---
+
+> "A evolução acontece um commit de cada vez." 🚀
